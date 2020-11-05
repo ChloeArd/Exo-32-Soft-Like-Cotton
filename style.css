@@ -30,8 +30,8 @@
         background-color: #686868;
         padding: 20px;
         position:relative;
-        height: 120px;
-        top: 158px;
+        height: 110px;
+        top: 168px;
         color: white;
         text-shadow: none;
     }
@@ -44,4 +44,5 @@
     .right {
         text-align: right;
         margin-right: 10px;
+        margin-top: 0px;
     }
